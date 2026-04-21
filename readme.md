@@ -1,5 +1,5 @@
-# 🗜️ Bulk Image Compressor & Resizer
-
+# 🗜️ PDF lite Image Compressor & Resizer
+[PSD Lite]([https://streamlit.io/](https://img-lite.streamlit.app/))
 A fast, lightweight web application built with Python and Streamlit that allows users to batch compress images to an exact target file size (KB) or resize their pixel dimensions. 
 
 This tool is entirely private and processes everything in your machine's RAM without saving files to the hard drive.
